@@ -19,9 +19,9 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "수달의 블로그"
 title_separator          : "|"
-subtitle                 : "Mathematics & Programming"
-name                     : "MathOtter"
-description              : "Welcome to MathOtter's Blog."
+subtitle                 : "환영합니다."
+name                     : "Math-Otter"
+description              : "Welcome to Math-Otter's Blog."
 url                      : "https://math-otter.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "MathOtter"
+  name             : "Math-Otter"
   avatar           : "/assets/images/로고.png"
-  bio              : "수학과 프로그래밍을 좋아하는 사람."
+  bio              : "수학과 코딩을 좋아합니다."
   # location         : "South Korea"
   # email            : 
   # links:
