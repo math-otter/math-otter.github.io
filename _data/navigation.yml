@@ -4,6 +4,8 @@ main:
     url: /categories/
   - title: "태그"
     url: /tags/
+  - title: "연도별"
+    url: /year/
   - title: "검색"
     url: /search/
 
@@ -34,6 +36,7 @@ docs2:
     children:
       - title: "글 4-1"
         url: /주소 4-1/
+
 
 
 
