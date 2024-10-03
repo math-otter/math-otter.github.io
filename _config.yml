@@ -122,9 +122,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/math-otter"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com"
+    # - label: "YouTube"
+    #   icon: "fab fa-fw fa-youtube"
+    #   url: "https://youtube.com"
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "mailto:your.name@email.com"
@@ -328,7 +328,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      toc: true
+      # toc: true
       toc_sticky: true
       published: true
 
